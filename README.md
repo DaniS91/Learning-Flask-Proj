@@ -1,7 +1,10 @@
 # My First Flask Project
-This is my first Flask project using Python
+This is my first Flask project using Python. For any suggestions or comments, please email me at danisteelyart@gmail.com.
 
-## Flask file structure and virtual environment
+
+## Notes from tutorial
+Below are the notes from the tutorial that I followed and from troubleshooting research that I intend to use as a reference for future projects
+### Flask file structure and virtual environment
 I followed [this tutorial][first tutorial] to troubleshoot some initial issues setting up the project, the virtual environment, and the file structure.
 
 > In Flask you must know the basic file structure and for this we use single
